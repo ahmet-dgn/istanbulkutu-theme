@@ -556,6 +556,7 @@
       "blocks": {
         "text_BXCEdQ": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Sadece kutu üretmiyoruz, markanızın ilk izlenimini tasarlıyoruz.</p>",
             "width": "fit-content",

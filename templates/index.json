@@ -682,7 +682,7 @@
               "type": "text",
               "name": "t:names.header",
               "settings": {
-                "text": "<p>Discover elevated design </p>",
+                "text": "<h1>Referanslarımız</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
